@@ -1,0 +1,29 @@
+# Wheat Yield Prediction from Climate Data
+
+## Project Overview
+This project explores the relationship between climate variables and wheat yield
+using historical country-level data. The objective is to build reproducible
+machine learning models to predict yield and analyze key climate drivers.
+
+## Motivation
+Climate variability strongly impacts crop productivity. Accurate yield prediction
+can support decision-making in agriculture, food security, and commodity markets.
+
+## Data Sources
+- FAOSTAT: wheat yield data
+- Public climate datasets (temperature and precipitation indicators)
+
+## Methods
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Regression and machine learning models
+- Model evaluation and interpretation
+
+## Tools
+- Python
+- pandas, numpy
+- scikit-learn
+- matplotlib, seaborn
+
+## Project Status
+🚧 In progress
