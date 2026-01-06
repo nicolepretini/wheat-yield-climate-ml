@@ -1,0 +1,16 @@
+year,country,code,yield_kg_ha,tas_gs_mean,pr_gs_sum
+2000,Argentina,ARG,2650,16.2,480
+2001,Argentina,ARG,2410,15.8,430
+2002,Argentina,ARG,2780,16.5,510
+2003,Argentina,ARG,2520,16.0,455
+2004,Argentina,ARG,2900,16.7,525
+2000,France,FRA,7200,13.1,610
+2001,France,FRA,7050,12.8,590
+2002,France,FRA,6800,13.5,540
+2003,France,FRA,6500,14.0,520
+2004,France,FRA,7350,13.0,630
+2000,United States,USA,2800,14.5,420
+2001,United States,USA,2950,14.2,460
+2002,United States,USA,2700,15.0,400
+2003,United States,USA,2600,15.3,380
+2004,United States,USA,3000,14.0,470
